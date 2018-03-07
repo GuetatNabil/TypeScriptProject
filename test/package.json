@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test nabil",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^2.7.2"
+  },
+  "devDependencies": {
+    "@types/mocha": "^2.2.41",
+    "@types/node": "^9.4.6",
+    "mocha": "^3.3.0",
+    "ts-node": "^5.0.1",
+    "typescript": "^2.7.2"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test nabil"
+  },
+  "keywords": [
+    "nabil"
+  ],
+  "author": "nabil",
+  "license": "UNLICENSED"
+}
